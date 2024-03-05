@@ -1,0 +1,15 @@
+com\flipkart\Flipkart_Automation\AddToCartTest.class
+com\flipkart\Flipkart_Automation\BuyNowTest.class
+com\flipkart\Flipkart_Automation\PriorityTest.class
+com\flipkart\Flipkart_Automation\AddSameItemTest.class
+com\flipkart\Flipkart_Automation\RemovefromCartTest.class
+com\flipkart\Flipkart_Automation\TestClass.class
+com\flipkart\Flipkart_Automation\ProductSearch.class
+com\flipkart\Flipkart_Automation\NoProductSearch.class
+com\flipkart\Flipkart_Automation\ProductViewTest.class
+com\flipkart\Flipkart_Automation\NoProductViewTest.class
+com\flipkart\Flipkart_Automation\RequestOTPTest.class
+com\flipkart\Flipkart_Automation\PlaceOrderTest.class
+com\flipkart\Flipkart_Automation\ValidLoginTest.class
+com\flipkart\Flipkart_Automation\NoAddtoCartTest.class
+com\flipkart\Flipkart_Automation\InvalidLoginTest.class

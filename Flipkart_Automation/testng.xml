@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.flipkart.Flipkart_Automation.NoProductSearch"/>
+      <class name="com.flipkart.Flipkart_Automation.RemovefromCartTest"/>
+      <class name="com.flipkart.Flipkart_Automation.PriorityTest"/>
+      <class name="com.flipkart.Flipkart_Automation.PlaceOrderTest"/>
+      <class name="com.flipkart.Flipkart_Automation.NoAddtoCartTest"/>
+      <class name="com.flipkart.Flipkart_Automation.InvalidLoginTest"/>
+      <class name="com.flipkart.Flipkart_Automation.TestClass"/>
+      <class name="com.flipkart.Flipkart_Automation.ProductViewTest"/>
+      <class name="com.flipkart.Flipkart_Automation.AddToCartTest"/>
+      <class name="com.flipkart.Flipkart_Automation.NoProductViewTest"/>
+      <class name="com.flipkart.Flipkart_Automation.ProductSearch"/>
+      <class name="com.flipkart.Flipkart_Automation.RequestOTPTest"/>
+      <class name="com.flipkart.Flipkart_Automation.ValidLoginTest"/>
+      <class name="com.flipkart.Flipkart_Automation.BuyNowTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
